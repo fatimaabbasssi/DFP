@@ -1,0 +1,18 @@
+nav ul{
+    background-color: black;
+}
+
+#root{
+    max-width: 1400px;
+    margin: 0 auto;
+
+}
+
+
+@media (max-width:500px) {
+
+    .proBtn{
+        font-size: 10px;
+    }
+
+}
